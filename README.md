@@ -1,6 +1,5 @@
 # ai-programming-test
+하이
 안녕
-테스트
-하이하이dd
-
-이건 github 사이트에서 수정한거야 
+아무거나
+진짜 아무거나
